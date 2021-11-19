@@ -1,0 +1,26 @@
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+   background-color: blueviolet;
+   color: black;
+}
+.btn{
+    background-color: blueviolet;
+    color: black;
+    
+}
+.carousel-inner{
+    height: 500px;
+   
+    display: block;
+}
+
+.container .row{
+   
+    border: 2px solid blueviolet;
+    padding: 120px;
+    margin: 20px 60px;
+    border-radius: 23px;
+    background-color: rgb(193, 146, 221);
+}
